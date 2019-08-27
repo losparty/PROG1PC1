@@ -1,0 +1,1 @@
+La multiplexacion del protocolo HTTP v 2  consiste en la capacidad de poder responder a muchas peticiones y respuestas en una sola conexion entre el cliente y servidor.
