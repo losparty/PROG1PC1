@@ -1,0 +1,6 @@
+Creador: Comunidad de Linux (2002)
+
+Objetivos: 
+    -Soporte a desarrollo lineal.
+    -Distribución, veloz y diseño sencillo.
+    -Facilitar el manejo de grandes proyectos.
